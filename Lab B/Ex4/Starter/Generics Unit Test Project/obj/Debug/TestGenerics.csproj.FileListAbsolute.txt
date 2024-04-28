@@ -1,0 +1,11 @@
+C:\Users\efrem\source\repos\Lab 12\Lab B\Ex4\Starter\Generics Unit Test Project\bin\Debug\Unit Tests for Module12.dll
+C:\Users\efrem\source\repos\Lab 12\Lab B\Ex4\Starter\Generics Unit Test Project\bin\Debug\Unit Tests for Module12.pdb
+C:\Users\efrem\source\repos\Lab 12\Lab B\Ex4\Starter\Generics Unit Test Project\bin\Debug\BinaryTree.dll
+C:\Users\efrem\source\repos\Lab 12\Lab B\Ex4\Starter\Generics Unit Test Project\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\efrem\source\repos\Lab 12\Lab B\Ex4\Starter\Generics Unit Test Project\bin\Debug\BinaryTree.pdb
+C:\Users\efrem\source\repos\Lab 12\Lab B\Ex4\Starter\Generics Unit Test Project\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\efrem\source\repos\Lab 12\Lab B\Ex4\Starter\Generics Unit Test Project\obj\Debug\TestGenerics.csproj.AssemblyReference.cache
+C:\Users\efrem\source\repos\Lab 12\Lab B\Ex4\Starter\Generics Unit Test Project\obj\Debug\TestGenerics.csproj.CoreCompileInputs.cache
+C:\Users\efrem\source\repos\Lab 12\Lab B\Ex4\Starter\Generics Unit Test Project\obj\Debug\TestGenerics.csproj.CopyComplete
+C:\Users\efrem\source\repos\Lab 12\Lab B\Ex4\Starter\Generics Unit Test Project\obj\Debug\Unit Tests for Module12.dll
+C:\Users\efrem\source\repos\Lab 12\Lab B\Ex4\Starter\Generics Unit Test Project\obj\Debug\Unit Tests for Module12.pdb

@@ -1,0 +1,6 @@
+C:\Users\efrem\source\repos\Lab 12\Lab A\Ex1\Starter\GaussianElimination\bin\Debug\GaussianElimination.dll
+C:\Users\efrem\source\repos\Lab 12\Lab A\Ex1\Starter\GaussianElimination\bin\Debug\GaussianElimination.pdb
+C:\Users\efrem\source\repos\Lab 12\Lab A\Ex1\Starter\GaussianElimination\obj\x86\Debug\GaussianElimination.csproj.AssemblyReference.cache
+C:\Users\efrem\source\repos\Lab 12\Lab A\Ex1\Starter\GaussianElimination\obj\x86\Debug\GaussianElimination.csproj.CoreCompileInputs.cache
+C:\Users\efrem\source\repos\Lab 12\Lab A\Ex1\Starter\GaussianElimination\obj\x86\Debug\GaussianElimination.dll
+C:\Users\efrem\source\repos\Lab 12\Lab A\Ex1\Starter\GaussianElimination\obj\x86\Debug\GaussianElimination.pdb
